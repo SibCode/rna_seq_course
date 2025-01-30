@@ -20,6 +20,6 @@ Folder structure is as follows:
 
 Due to data amount outputs, logs, and references folder is .gitignored.
 
-Scripts were run in order unless specified.
+Scripts were run in order unless specified. 10_Differential_Gene_Expression_Analysis.R contains the full analysis.
 
 Samplelist was created using the code from 04_get_samplelist.sh to create the file "samplelist.tsv" in the metadata folder.
